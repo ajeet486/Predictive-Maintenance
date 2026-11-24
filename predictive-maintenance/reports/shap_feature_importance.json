@@ -1,0 +1,13 @@
+{
+  "tool_wear_min": 1.2990237474441528,
+  "power_kw": 1.238004207611084,
+  "rotational_speed_rpm": 0.9835184812545776,
+  "speed_torque_ratio": 0.8744438886642456,
+  "overstrain_calc": 0.6949262022972107,
+  "temp_diff_k": 0.3701736330986023,
+  "process_temperature_k": 0.31735220551490784,
+  "air_temperature_k": 0.29403170943260193,
+  "torque_nm": 0.2904244363307953,
+  "temp_ratio": 0.2667955756187439,
+  "type_encoded": 0.07602281868457794
+}

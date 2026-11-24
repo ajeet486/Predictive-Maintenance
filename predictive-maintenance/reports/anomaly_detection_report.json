@@ -1,0 +1,11 @@
+{
+  "total_observations": 10000,
+  "detected_anomalies": 506,
+  "anomaly_rate": 0.0506,
+  "actual_failures": 339,
+  "failures_captured_as_anomalies": 119,
+  "failure_capture_rate": 0.35103244837758113,
+  "anomaly_to_failure_precision": 0.23517786561264822,
+  "mean_anomaly_score_healthy": 0.2974551403787902,
+  "mean_anomaly_score_failure": 0.5011958842774824
+}

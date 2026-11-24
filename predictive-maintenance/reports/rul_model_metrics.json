@@ -1,0 +1,38 @@
+{
+  "Random_Forest": {
+    "validation": {
+      "model_name": "Random_Forest_Val",
+      "mae": 11.44780258822407,
+      "rmse": 16.217772273466263,
+      "r2_score": 0.8488583373858709,
+      "nasa_total_score": 27459.245875689394,
+      "nasa_mean_score": 6.746743458400342
+    },
+    "test": {
+      "model_name": "Random_Forest_Test",
+      "mae": 14.25737233636129,
+      "rmse": 20.310761418702302,
+      "r2_score": 0.7611128081660329,
+      "nasa_total_score": 1693.9805411922482,
+      "nasa_mean_score": 16.93980541192248
+    }
+  },
+  "XGBoost": {
+    "validation": {
+      "model_name": "XGBoost_Val",
+      "mae": 11.398953437805176,
+      "rmse": 15.545606398461864,
+      "r2_score": 0.8611272573471069,
+      "nasa_total_score": 21612.903240569194,
+      "nasa_mean_score": 5.310295636503487
+    },
+    "test": {
+      "model_name": "XGBoost_Test",
+      "mae": 13.67634391784668,
+      "rmse": 19.021951944049242,
+      "r2_score": 0.7904678583145142,
+      "nasa_total_score": 1135.6413581394072,
+      "nasa_mean_score": 11.356413581394072
+    }
+  }
+}
